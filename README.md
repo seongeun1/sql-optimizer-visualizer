@@ -19,5 +19,6 @@ using 'EXPLAIN (FORMAT JSON)'
 > - Prints query execution plan as a readable tree
 
 ### Setup
-> pip install -r requirements.txt
-> python visualizer.py
+```bash
+pip install -r requirements.txt
+python visualizer.py
